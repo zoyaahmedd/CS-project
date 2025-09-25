@@ -55,10 +55,6 @@ programming_icons = {
     "Java": "☕",
     "C": "🔍",
 }
-spoken_icons = {"French": "FR",
-    "English": "🇬🇧",
-    "Spanish":"🇪🇸"
-}
 
 #CHANGE BELOW
 spoken_data = {
@@ -67,12 +63,12 @@ spoken_data = {
     "Hindi": "Fluent",
 }
 leadership_data = {
-    "House Captain of Napier House": (["- Won Sports Day!"],"Images/puff.jpeg"),
+    "House Captain of Napier House": (["- Won Sports Day and has multiple wins!"],"Images/puff.jpeg"),
 
 }
 activity_data={
-    "Athletics Club":  ("- Had multiple wins!", 
-            "- Trained consecutively for multiple months")
+    "Senior Volunteer at NICH hospital":  ("- Administered public health services", 
+            "- Trained other volunteers to deal with patients")
 }
 
 ######
@@ -83,4 +79,10 @@ firstline= "Answer the questions below and unlock your sport!"
 exercise= "Images/exercise.jpg"
 ####
 racket= "Images/racket.jpg"
-sportscover= "Images/sports.jpg"
+####
+sunny= "Images/sunny.jpg"
+####
+competitive= "Images/competitive.jpg"
+####
+height= "Images/height.jpg"
+
